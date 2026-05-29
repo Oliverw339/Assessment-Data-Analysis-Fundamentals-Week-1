@@ -1,5 +1,5 @@
 # Business Management
-
+psql northwind --csv -f ./queries/[name of file]
 ## Scenario
 
 You work for a normal company that does normal company stuff: selling normal products to normal people. You've been asked to dive into the existing database and write a series of queries to extract business-relevant information that will help the company meet its quarterly objectives.
